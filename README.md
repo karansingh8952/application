@@ -107,7 +107,7 @@ ChatApplication/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YourUsername/Java-Chat-Application.git
+git clone https://github.com/karansingh8952/application/tree/main/ChatApplication
 ```
 
 ---
@@ -160,7 +160,8 @@ java ChatApp.ChatClient
 ### Client
 
 ```markdown
-![Client](screenshots/client.png)
+![Client](screenshots/![Uploading client.png.png…]()
+  
 ```
 
 ---
@@ -188,8 +189,6 @@ screenshots/
 │
 ├── server.png
 ├── client.png
-├── chatting.png
-└── architecture.png
 ```
 
 ---
@@ -238,22 +237,6 @@ Connection Closed
 
 ---
 
-## 🌟 Future Enhancements
-
-- Multiple Clients
-- User Login
-- File Sharing
-- Image Sharing
-- Emoji Support
-- Chat History
-- Database Integration
-- LAN Support
-- Voice Chat
-- Video Calling
-- Dark Mode
-- Message Encryption
-
----
 
 ## 👨‍💻 Author
 
