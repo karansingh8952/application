@@ -1,3 +1,6 @@
+
+
+
 # 💬 Java Client-Server Chat Application
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
@@ -150,48 +153,15 @@ java ChatApp.ChatClient
 ## 🖼 Screenshots
 
 ### Server
+<img width="617" height="507" alt="server png" src="https://github.com/user-attachments/assets/0466bcf2-d1d5-4df8-b711-302ed1f4d6a3" />
 
-```markdown
-![Server](screenshots/server.png)
-```
-
----
 
 ### Client
+<img width="623" height="507" alt="client png" src="https://github.com/user-attachments/assets/9c7cda55-a43a-4533-8513-f896e2200aa0" />
 
-```markdown
-![Client](screenshots/![Uploading client.png.png…]()
-  
-```
 
----
-
-### Chat Window
-
-```markdown
-![Chat](screenshots/chatting.png)
-```
-
----
-
-### Architecture
-
-```markdown
-![Architecture](screenshots/architecture.png)
-```
-
----
-
-## 📷 Screenshot Folder
-
-```
-screenshots/
-│
-├── server.png
-├── client.png
-```
-
----
+### Architecture Real Image
+<img width="1358" height="905" alt="kirannn png" src="https://github.com/user-attachments/assets/b7eec763-ce19-4daa-97f0-a3efde88dda7" />
 
 ## 📚 Java Concepts Used
 
